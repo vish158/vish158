@@ -2,7 +2,7 @@
 # Vishnu-Undhad
 =============================
 
-Software-Engineer |  Web Developer | IT Network Analyst | Computer Science Graduate at University of Lethbridge, Lethbridge, AB Canada
+Financial Data Analytics & Machine Learning Expert |  Web Developer | IT Network Analyst | Computer Science Graduate at University of Lethbridge, Lethbridge, AB Canada
 ------------------------------------------------------------------------------------------------------
 
 * 🌍  I'm based in Lethbridge,AB Canada
