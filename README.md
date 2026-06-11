@@ -1,45 +1,80 @@
 
-# Vishnu-Undhad
-=============================
+# Hi, I'm Vishnu 👋
 
-Financial Data Analytics & Machine Learning Expert |  Web Developer | IT Network Analyst | Computer Science Graduate at University of Lethbridge, Lethbridge, AB Canada
-------------------------------------------------------------------------------------------------------
+**Data Analyst & Business Systems Analyst** based in Calgary, AB 🇨🇦
 
-* 🌍  I'm based in Lethbridge,AB Canada
-* 🖥️  See my portfolio at [My Personal Website](http://www.vishnuundhad.com)
-* ✉️  You can contact me at [vishnuundhad20@gmail.com](mailto:vishnuundhad20@gmail.com)
-* 🧠  I'm learning Cisco Network and Game Development (Unreal Engine / C# ...) from online resourses
-* 🤝  I'm open to collaborating on Web Development, Networking, Unreal Engine, Quality Assurance projects.
+I build data pipelines, BI dashboards, and AI-powered tools that help businesses make faster, more confident decisions. Currently exploring the intersection of business analysis and AI adoption — and slowly building my way into game development on the side.
 
-### Skills
+---
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-</p>
+## 🔧 What I Work With
 
+**Data & Analytics**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-### Socials
+**Business Analysis**
+![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-0052CC?style=flat&logo=jira&logoColor=white)
+![Requirements](https://img.shields.io/badge/Requirements%20Gathering-1F4E79?style=flat)
+![Documentation](https://img.shields.io/badge/Process%20Documentation-6B7280?style=flat)
 
+**Infrastructure & Tools**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 🚀 Featured Projects
 
-<a href="http://www.github.com/hennyepl"><img src="https://github-readme-stats.vercel.app/api?username=vish158&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vishnu Undhad's GitHub stats" /></a>
+### 🤖 [AI Requirements Analyzer](https://github.com/vish158/ai-requirements-analyzer)
+A CLI tool that takes a plain-English business problem and generates structured BSA artifacts using the Claude AI API — user stories, acceptance criteria, process flows, and risk registers. Built for analysts who want a head start on documentation.
 
-<a href="http://www.github.com/hennyepl"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hennyepl&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+`Python` `Anthropic API` `Business Analysis` `JSON` `Markdown`
 
-<a href="http://www.github.com/hennyepl"><img src="https://activity-graph.herokuapp.com/graph?username=hennyepl&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+---
 
-<a href="https://github.com/hennyepl" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hennyepl&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 📊 [Process Improvement Dashboard](https://github.com/vish158/process-improvement-dashboard)
+An interactive Streamlit dashboard that ingests business process metrics, scores processes by improvement priority, and surfaces AI-powered recommendations. Includes trend analysis, KPI tracking, and a per-process performance radar chart.
 
-<b>Top Repositories</b>
+`Python` `Streamlit` `Plotly` `Pandas` `AI Integration`
 
-<div width="100%" align="center">
+---
+
+### 🚲 [Adventure Works Power BI Dashboard](https://github.com/vish158/adventure-works-powerbi)
+End-to-end Power BI dashboard for a retail business with DAX measures, star-schema data modelling, and drill-through KPI analysis across sales, product, and category performance.
+
+`Power BI` `DAX` `Data Modelling` `AWS` `Docker`
+
+---
+
+## 📈 GitHub Stats
+
+<a href="https://github.com/vish158">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vish158&show_icons=true&count_private=true&title_color=2E75B6&text_color=374151&icon_color=2E75B6&bg_color=f8fafc&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vish158&langs_count=8&title_color=2E75B6&text_color=374151&icon_color=2E75B6&bg_color=f8fafc&hide_border=true&layout=compact" />
+</a>
+
+---
+
+## 📜 Certifications
+
+- 🏅 PL-300 Microsoft Power BI Data Analyst
+- 🏅 Cisco Certified Network Associate (CCNA)
+- 📖 Canadian Investment Funds Course (IFIC) — In Progress
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-undhad-a6024726b)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vishnuundhad20@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F4E79?style=flat&logo=google-chrome&logoColor=white)](http://www.vishnuundhad.com)
+
+---
+
+*Open to full-time Data Analyst and Business Systems Analyst roles in Alberta. Open to relocation within Canada.*
